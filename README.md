@@ -1,8 +1,8 @@
 # Jetson Orin Nano Super 완벽 가이드
 
-> **NVIDIA Jetson Orin Nano**는 2023년 출시된 엣지 AI 컴퓨팅 플랫폼입니다.
-> **Jetson Orin Nano Super**는 2024년 12월 소프트웨어 업데이트를 통해 성능을 대폭 향상시킨 버전입니다.
-> **하드웨어는 동일하며, JetPack 소프트웨어 업데이트만으로 Super 모드 활성화가 가능합니다.**
+> **NVIDIA Jetson Orin Nano**는 2023년 출시된 엣지 AI 컴퓨팅 플랫폼입니다. <br>
+> **Jetson Orin Nano Super**는 2024년 12월 소프트웨어 업데이트를 통해 성능을 대폭 향상시킨 버전입니다. <br>
+> **하드웨어는 동일하며, JetPack 소프트웨어 업데이트만으로 Super 모드 활성화가 가능합니다.** <br>
 
 ---
 
